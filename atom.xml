@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://teaforthecat.github.com/atom.xml" rel="self"/>
+  <link href="http://teaforthecat.github.com/"/>
+  <updated>2013-02-02T15:54:06-06:00</updated>
+  <id>http://teaforthecat.github.com/</id>
+  <author>
+    <name><![CDATA[Chris Thompson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[initial]]></title>
+    <link href="http://teaforthecat.github.com/blog/2013/02/02/initial/"/>
+    <updated>2013-02-02T15:51:00-06:00</updated>
+    <id>http://teaforthecat.github.com/blog/2013/02/02/initial</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
